@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+![image](https://user-images.githubusercontent.com/487999/87262745-1023c500-c4f6-11ea-9956-ea00fdc29598.png)
 
 # 예제 - 여행사
 
